@@ -17,8 +17,7 @@ In this repository, you will see how to convert with api2pdf integration and how
 ## How does the pdf look like
 - When you click on the url,
   
-![image](https://github.com/elcinzorlu/go-dynamic-template-with-convert-api2pdf/assets/107582166/e6d678c5-a832-4d55-aee9-3cb6248c1c90)
-
+![image](https://github.com/elcinzorlu/go-dynamic-template-with-convert-api2pdf/assets/107582166/09ec7f47-fd8d-4f42-aee2-65389fc47cac)
 
 ## Resources
 
