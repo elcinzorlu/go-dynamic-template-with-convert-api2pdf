@@ -1,0 +1,17 @@
+<html>
+    <head>
+        <title>Kişiler</title>
+    </head>
+    <body>
+        <h1>Kişiler</h1>
+        <ul>
+            {{range .}}
+                <li>{{.Isim}}, {{.Yas}} yaşında
+                    <ul>
+                        <li>{{.Adres.Sokak}}, {{.Adres.Sehir}}, {{.Adres.PostaKodu}}</li>
+                    </ul>
+                </li>
+            {{end}}
+        </ul>
+    </body>
+</html>
